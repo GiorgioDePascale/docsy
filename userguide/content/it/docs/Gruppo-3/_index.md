@@ -2,7 +2,7 @@
 title: "Gruppo 3"
 weight: 3
 description: >
-   Il gruppo # lavorerà sul incremento di natalità e divorzi durante il lockdown
+   Il gruppo 3 lavorerà per il settore del turismo e delle spiagge, con gli esercenti di strutture balneari
 ---
 
 Questo é un gruppo di esempio, ogni gruppo é tenuto a duplicare questa cartella e rinominare title e description.
@@ -12,13 +12,14 @@ Dati obbligatori
 
 ## Il Team
 
-Il gruppo 1 é composto da:
+Il gruppo 3 é composto da:
 
-* nome 1  
-* nome 2  
-* nome x  
+* Giorgio De Pascale 
+* Samuel Bertone 
+* Simone Toscano
+* Matteo Ughetti
 
-La prima parte di ricerca ed analisi la stiamo portando avanti in questo google doc [nome link](url)
+La prima parte di ricerca ed analisi la stiamo portando avanti in questo google doc [https://docs.google.com/document/d/1XhLytTcvSsWZowFdqiQb2_gNdG7TZPhLw9nEW11fZy8/]
 
-ultimo aggiornamento in data
+ultimo aggiornamento in data 04/06/2020
 tradotto in inglese?
