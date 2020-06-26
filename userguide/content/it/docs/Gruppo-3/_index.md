@@ -17,4 +17,4 @@ La prima parte di ricerca ed analisi la stiamo portando avanti in questo google 
 Form
 https://docs.google.com/forms/d/1sAVWpAj_6NK5PwagK8m--fgnN5bUDQZb-rgUeJO7914/edit
 https://docs.google.com/forms/d/1zupNG-p0gjwk1-7bLX319rEXHPsURqdiZBb4whhFevI/edit
-ultimo aggiornamento in data 11/06/2020
+ultimo aggiornamento in data 24/06/2020
