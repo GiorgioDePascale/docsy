@@ -13,10 +13,10 @@ Il gruppo 3 é composto da:
 * Matteo Ughetti
 * Simone Toscano
 
-La prima parte di ricerca ed analisi la stiamo portando avanti in questo google doc
+La prima parte di ricerca e analisi la stiamo portando avanti in questo google doc:
 https://docs.google.com/document/d/1XhLytTcvSsWZowFdqiQb2_gNdG7TZPhLw9nEW11fZy8/edit
 
-Form realizzati
+Form:
 https://docs.google.com/forms/d/1sAVWpAj_6NK5PwagK8m--fgnN5bUDQZb-rgUeJO7914/edit
 https://docs.google.com/forms/d/1zupNG-p0gjwk1-7bLX319rEXHPsURqdiZBb4whhFevI/edit
 
