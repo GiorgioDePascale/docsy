@@ -1,17 +1,23 @@
 ---
-title: "pagina di approfondimento"
-linkTitle: "divorzi lockdown"
-weight: 9
+title: "Gruppo 3"
+weight: 3
 description: >
-  una possibile sotto pagina per dividere meglio i contenuti e gli approfondimenti, con una micro documentazione di markdown
+   Il gruppo 3 lavorerà per il settore del turismo balneare, con l'obbiettivo di trovare una soluzione per gli esercenti (e con gli esercenti) riguardo alla situazione post covid-19
 ---
+## Il Team
 
-## dopo questo titolo embeddo un'immagine trovata online:
+Il gruppo 3 é composto da:
 
-![](https://raw.githubusercontent.com/vongomben/docsy/master/userguide/content/it/docs/Gruppo-Template/riders.jpg)
+* Giorgio De Pascale
+* Samuel Bertone  
+* Matteo Ughetti
+* Simone Toscano
 
-## Qui sto visualizzando un'immagine che ho caricato nella cartella del gruppo.  
+La prima parte di ricerca e analisi la stiamo portando avanti in questo google doc:
+https://docs.google.com/document/d/1XhLytTcvSsWZowFdqiQb2_gNdG7TZPhLw9nEW11fZy8/edit
 
-![](../riders.jpg)
+Form:
+https://docs.google.com/forms/d/1sAVWpAj_6NK5PwagK8m--fgnN5bUDQZb-rgUeJO7914/edit
+https://docs.google.com/forms/d/1zupNG-p0gjwk1-7bLX319rEXHPsURqdiZBb4whhFevI/edit
 
-Rimando a [questo articolo](https://www.markdownguide.org/basic-syntax/) per avere maggiori infor su come funziona markdown.
+ultimo aggiornamento in data 02/07/2020
