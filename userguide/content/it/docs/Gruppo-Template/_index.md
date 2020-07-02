@@ -1,24 +1,23 @@
 ---
-title: "Gruppo Template"
-weight: 9
+title: "Gruppo 3"
+weight: 3
 description: >
-   Il gruppo # lavorerà sul incremento di natalità e divorzi durante il lockdown
+   Il gruppo 3 lavorerà per il settore del turismo balneare, con l'obbiettivo di trovare una soluzione per gli esercenti (e con gli esercenti) riguardo alla situazione post covid-19
 ---
-
-Questo é un gruppo di esempio, ogni gruppo é tenuto a duplicare questa cartella e rinominare title e description.
-IL weight é l'ordine con cui apparirà sulla colonna di sinistra.
-
-Dati obbligatori
-
 ## Il Team
 
-Il gruppo 1 é composto da:
+Il gruppo 3 é composto da:
 
-* nome 1  
-* nome 2  
-* nome x  
+* Giorgio De Pascale
+* Samuel Bertone  
+* Matteo Ughetti
+* Simone Toscano
 
-La prima parte di ricerca ed analisi la stiamo portando avanti in questo google doc [nome link](url)
+La prima parte di ricerca e analisi la stiamo portando avanti in questo google doc:
+https://docs.google.com/document/d/1XhLytTcvSsWZowFdqiQb2_gNdG7TZPhLw9nEW11fZy8/edit
 
-ultimo aggiornamento in data
-tradotto in inglese?
+Form:
+https://docs.google.com/forms/d/1sAVWpAj_6NK5PwagK8m--fgnN5bUDQZb-rgUeJO7914/edit
+https://docs.google.com/forms/d/1zupNG-p0gjwk1-7bLX319rEXHPsURqdiZBb4whhFevI/edit
+
+ultimo aggiornamento in data 02/07/2020
