@@ -1,24 +1,23 @@
 ---
-title: "Gruppo 3"
+title: "Group 3"
 weight: 3
 description: >
-   Il gruppo # lavorerà sul incremento di natalità e divorzi durante il lockdown
+   Group 3 will work for the beach tourism sector, with the aim of finding a solution for exhibitors (and with exhibitors) regarding the post-covid-19 situation.
 ---
+## The Team
 
-Questo é un gruppo di esempio, ogni gruppo é tenuto a duplicare questa cartella e rinominare title e description.
-IL weight é l'ordine con cui apparirà sulla colonna di sinistra.
+Composed by:
 
-Dati obbligatori
+*  Giorgio De Pascale
+* Samuel Bertone
+* Matteo Ughetti
+* Simone Toscano
 
-## Il Team
+We are carrying out the first part of research and analysis in this google doc:
+ [ctrlz](https://docs.google.com/document/d/1XhLytTcvSsWZowFdqiQb2_gNdG7TZPhLw9nEW11fZy8/edit)
 
-Il gruppo 1 é composto da:
+Form:
+[manager](https://docs.google.com/forms/d/1sAVWpAj_6NK5PwagK8m--fgnN5bUDQZb-rgUeJO7914/edit)
+[client](https://docs.google.com/forms/d/1zupNG-p0gjwk1-7bLX319rEXHPsURqdiZBb4whhFevI/edit)
 
-* nome 1  
-* nome 2  
-* nome x  
-
-La prima parte di ricerca ed analisi la stiamo portando avanti in questo google doc [nome link](url)
-
-ultimo aggiornamento in data
-tradotto in inglese?
+last update: 6/07/2020

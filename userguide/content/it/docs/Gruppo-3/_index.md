@@ -2,7 +2,7 @@
 title: "Gruppo 3"
 weight: 3
 description: >
-   Il gruppo 3 lavorerà per il settore del turismo balneare, con l'obbiettivo di trovare una soluzione per gli esercenti (e con gli esercenti) riguardo alla situazione post covid-19
+   Il gruppo 3 lavorerà per il settore del turismo balneare, con l'obbiettivo di trovare una soluzione per gli esercenti (e con gli esercenti) riguardo alla situazione post covid-19.
 ---
 ## Il Team
 
